@@ -4,7 +4,7 @@ Abaixo estão algumas orientações para facilitar a compreensão e execução d
 
 Backend:
 Desenvolvido no Visual Studio Code utilizando JavaScript.
-Para execução, é necessário realizar os comandos "npm install" e "npm run server".
+Para execução, é necessário realizar os comandos "npm install" e sua execução com "npm run server".
 
 Frontend:
 Também desenvolvido no Visual Studio Code com JavaScript.
