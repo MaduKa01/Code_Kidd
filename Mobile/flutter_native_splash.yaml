@@ -1,0 +1,7 @@
+flutter_native_splash:
+  color: "#ededed"
+  image: assets/brand/full-logo-primary.png
+
+  android_12:
+    image: assets/brand/small-logo.png
+    color: "#ededed"

@@ -8,7 +8,7 @@ Para execução, é necessário realizar os comandos "npm install" e "npm run se
 
 Frontend:
 Também desenvolvido no Visual Studio Code com JavaScript.
-A instalação pode ser feita através dos comandos "pnpm install" e "pnpm run dev".
+A instalação pode ser feita através dos comandos "npm install react react-dom next" seguidos de "pnpm install" e "pnpm run dev".
 
 Banco de dados:
 Utilizamos o MongoDB como base de dados.
