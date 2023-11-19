@@ -14,11 +14,11 @@ Banco de dados:
 Utilizamos o MongoDB como base de dados.
 
 API Clients:
-Para testes, recomendamos a utilização do Insomnia. O arquivo para testes já foi enviado.
+Para testes, recomendamos a utilização do Insomnia. O arquivo para testes "Requests.json" foi enviado
 
 Mobile:
 Desenvolvido no Visual Studio Code e Android Studio usando Flutter.
-Para uma visão mais prática do projeto, disponibilizamos o vídeo de prova de conceito (POC_codekid.mp4).
+Para uma visão mais prática do projeto, disponibilizamos o vídeo de prova de conceito (POC_codekid.mp4)
 
 Agradecemos imensamente pela colaboração!
 
